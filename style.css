@@ -1,0 +1,53 @@
+body{
+    font-size: 20px;
+}
+#title{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+table{
+    margin-top: 30px;
+}
+.list{
+    width: 140px;
+    color: red;
+    font-weight:bold;
+}
+.mp4{
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mp3{
+    color: blue;
+    font-size: 30px;
+}
+.day{
+    color: blue;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.sj{
+    border-bottom: 2px black solid;
+}
+#summary{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.video{
+    margin-bottom: 40px;
+}
+.img{
+    text-align: center;
+}
+a{ 
+    text-decoration: none; 
+}
+img{
+    max-width: 500px;
+    height: 100%;
+    width: 100%;
+}
